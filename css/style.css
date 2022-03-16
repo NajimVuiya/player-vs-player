@@ -1,0 +1,22 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #efefef;
+}
+#unique 
+{
+	margin: 0;
+	padding: 8px;
+	text-align: center;
+	color: #efefef;
+	background-color: #000;
+}
+
+.conatiner 
+{
+	margin: 0 0 0 450px;
+	padding: 4px; 
+
+}
